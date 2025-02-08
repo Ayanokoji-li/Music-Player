@@ -1,0 +1,8 @@
+BasedOnStyle: Chromium
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+BreakBeforeBraces: Attach
+AllowShortIfStatementsOnASingleLine: true
+ColumnLimit: 80
+SortIncludes: true
